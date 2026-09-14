@@ -21,7 +21,7 @@
 | 05 | 뛰뛰빵빵 방탈출이란? | `docs/05_what-is-ddwidddi-bbangbbang.md` |
 | 06 | 실제 이용 방법 | `docs/06_customer-journey.md` |
 | 07 | 아이템 설명 | `docs/07_item-description.md` |
-| 08 | 기존 상품/방탈출과의 차이점 | `docs/08_differentiation.md` |
+| 08 | 기존 상품/방탈출과의 차이점 및 경쟁우위 | `docs/08_differentiation.md` |
 | 09 | 발전방향 / 사업화 과정 | `docs/09_commercialization-roadmap.md` |
 | 10 | 수익구조 | `docs/10_revenue-model.md` |
 | 11 | 확장성 / 기대효과 | `docs/11_scalability-impact.md` |
@@ -42,12 +42,12 @@
 - [x] 문서화 구조 생성
 - [x] 01 프로젝트 소개 작성
 - [x] 02 문제인식 작성
-- [ ] 03 시장조사 작성
-- [ ] 04 타겟 작성
-- [ ] 05 서비스 정의 작성
-- [ ] 06 실제 이용 방법 작성
-- [ ] 07 아이템 상세 작성
-- [ ] 08 차별성 작성
+- [x] 03 시장조사 작성
+- [x] 04 타겟 작성
+- [x] 05 서비스 정의 작성
+- [x] 06 실제 이용 방법 작성
+- [x] 07 아이템 상세 작성
+- [x] 08 차별성·경쟁우위 작성
 - [ ] 09 사업화 과정 작성
 - [ ] 10 수익구조 작성
 - [ ] 11 확장성·기대효과 작성
